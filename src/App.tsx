@@ -178,7 +178,7 @@ function App() {
       description: "48-hour coding challenge to build innovative solutions",
       date: "Day 1-2",
       formLink:
-        "https://docs.google.com/forms/d/e/1FAIpQLSf_9FwiB3h9ZNhEpcA64h1SUgcCPK9Ze9zie6qn5ndYtkojGw/viewform?usp=header",
+        "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
     {
       title: "Esports Championship",
@@ -186,7 +186,7 @@ function App() {
       prizePool: "₹20,000",
       description: "Valorant, BGMI, Forza Horizon, FIFA & Tekken tournaments",
       date: "Day 1-3",
-      formLink: "https://google.com",
+      formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
     {
       title: "Kalakriti",
@@ -194,7 +194,7 @@ function App() {
       prizePool: "₹20,000",
       description: "Digital art and graphic design competition",
       date: "Day 2",
-      formLink: "https://forms.gle/your-kalakriti-form",
+      formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
     {
       title: "Bug Bounty",
@@ -202,7 +202,7 @@ function App() {
       prizePool: "₹20,000",
       description: "Find and report security vulnerabilities",
       date: "Day 2",
-      formLink: "https://forms.gle/your-bugbounty-form",
+      formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
     {
       title: "Speed Typing",
@@ -210,7 +210,7 @@ function App() {
       prizePool: "₹20,000",
       description: "Test your typing speed and accuracy",
       date: "Day 3",
-      formLink: "https://forms.gle/your-typing-form",
+      formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
     {
       title: "Chess Tournament",
@@ -218,7 +218,7 @@ function App() {
       prizePool: "₹20,000",
       description: "Strategic battle of minds",
       date: "Day 1-2",
-      formLink: "https://facebook.com",
+      formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
   ];
 
