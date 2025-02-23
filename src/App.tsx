@@ -178,7 +178,7 @@ function App() {
       description: "48-hour coding challenge to build innovative solutions",
       date: "Day 1-2",
       formLink:
-        "https://docs.google.com/forms/d/e/1FAIpQLSf_9FwiB3h9ZNhEpcA64h1SUgcCPK9Ze9zie6qn5ndYtkojGw/viewform?usp=header",
+        "https://docs.google.com/forms/d/e/1FAIpQLSdGrUOiNS4T1buIkT0rKb7-9LF1AnuIhfpAyo9OQZOHMw_Bbw/viewform?usp=dialog",
     },
     {
       title: "Esports Championship",
